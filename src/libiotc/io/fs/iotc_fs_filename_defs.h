@@ -17,6 +17,6 @@
 #ifndef __IOTC_FS_FILENAME_DEFS_H__
 #define __IOTC_FS_FILENAME_DEFS_H__
 
-#define IOTC_GLOBAL_CERTIFICATE_FILE_NAME_DEF "roots.pem"
+#define IOTC_GLOBAL_CERTIFICATE_FILE_NAME_DEF "/etc/iotcore.pem"
 
 #endif /* __IOTC_FS_FILENAME_DEFS_H__ */
